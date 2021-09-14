@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @EDGZTNSR
-- 👀 I’m interested in topics related to cyber sec and OSINT.
-- 🌱 I’m currently working as a software dev.
+-  leTroll
 
 <!---
 EDGZTNSR/EDGZTNSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
